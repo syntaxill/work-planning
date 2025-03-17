@@ -1,6 +1,2 @@
-# Work planning
-
-### Steps
-* First
-* Second
-* ...
+# Preview image
+![Preview](/imgs/work-planningSS.png)
